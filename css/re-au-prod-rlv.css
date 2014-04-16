@@ -1,0 +1,21 @@
+.std ul li{
+  background: url('http://assets1.revitive.com/media/revitive/skin/re_bullet_lv.gif') no-repeat scroll left 50% transparent;
+}
+
+#accordion li h2 a:before{
+  content:url('http://assets1.revitive.com/media/re_au/product/re-lv-arrow-right.png');
+  margin-right: 10px;
+}
+
+#accordion li h2 a.acc-open:before{
+  content:url('http://assets1.revitive.com/media/re_au/product/re-lv-arrow-down.png');
+  margin-right: 8px;
+}
+
+ul.lv-tick-list li{
+  background: url('http://assets2.revitive.com/media/revitive/comp-table/re-comp-table-lv-tick.png') no-repeat scroll left 2px transparent;
+  list-style-type: none;
+  padding-left: 25px;
+  margin-bottom: 6px;
+  line-height: 22px;
+}
