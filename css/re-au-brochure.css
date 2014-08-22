@@ -1,0 +1,27 @@
+.brochure{
+  width: 25%;
+  float: left;
+  margin: 1% 4%;
+  text-align: center;
+}
+
+.brochure h2 a{
+  font-size: 0.8em;
+}
+
+.brochure img{
+  width: 100%;
+  height: auto;
+}
+
+.brochure .sml-btn{
+  display: block;
+  background-color: #3a913f;
+  color: white;
+  margin: 5% 10%;
+  padding: 5%;
+}
+
+.brochure .sml-btn:hover{
+  text-decoration: none;
+}
